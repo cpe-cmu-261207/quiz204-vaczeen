@@ -8,6 +8,7 @@ const color = document.querySelector('#color')
 
 btn_toggle.onclick = () => {
   // your code here
+
 }
 
 // more codes for Search and Reset buttons here
